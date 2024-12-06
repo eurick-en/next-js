@@ -15,7 +15,6 @@ Este projeto foi desenvolvido com o objetivo de:
 - **Next.js**  
 - **React**  
 - **JavaScript**  
-- **HTML5 e CSS3**  
 - **Node.js**  
 
 ## 🎨 Funcionalidades  
